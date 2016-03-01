@@ -1,2 +1,2 @@
-# proxydatabase
-mysql proxy server list database
+# Proxy database
+MySql proxy server list database.
