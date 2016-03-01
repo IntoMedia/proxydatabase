@@ -2,10 +2,8 @@
 -- version 4.0.10.7
 -- http://www.phpmyadmin.net
 --
--- Hoszt: server8.mysql-host.eu:3306
+-- 
 -- Létrehozás ideje: 2016. Feb 29. 16:35
--- Szerver verzió: 5.5.44-log
--- PHP verzió: 5.4.31
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,7 +15,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Adatbázis: `intoohu1_kewix`
+-- 
 --
 
 -- --------------------------------------------------------
